@@ -1,5 +1,6 @@
-N = gets.to_i
-if 0 <= N && N <= 10000
-puts N*gets.to_i
-end
-
+A = gets.chomp
+puts A
+B = gets.chomp
+puts B
+C = gets.chomp
+puts C
