@@ -1,11 +1,5 @@
-# puts "abc"
-# puts "a"
-# puts 2000
-# puts "0x04a12bE"
+N = gets.to_i
+if 0 <= N && N <= 10000
+puts N*gets.to_i
+end
 
-# s = gets.chomp
-# # 読み込んだ文字列をそのまま出力する
-# puts s
-
-S = gets.chomp
-puts S
