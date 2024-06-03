@@ -1,8 +1,3 @@
-# N = gets.chomp
-# if 1 <= N && N <= 10
-# puts N
-# end
-
 # 正解例
 def main
   # 入力値の取得
